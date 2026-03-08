@@ -1,1 +1,5 @@
 target/
+
+# nix development environment
+.direnv/
+.devenv/
